@@ -15,8 +15,9 @@
 ## 3. image sharpening —— 图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
 </br>
-# 我可以获得什么？
-### **你可以学习这些:**
+
+### **你可以获得什么？**
+
     所用算法原理以及实现；
     程序中涉及Bitmap图像的读写方法；
     RGB图像与GRAY图像或者Binary图像的转换；
