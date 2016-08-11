@@ -12,7 +12,7 @@
 ## 2. non-local means filtering — 非局部空间滤波算法，去除图像噪声
     Providing four versions according to different modifications based on Bayesian Theory.
 
-## 3. image sharpening —— 图像增强、锐化，提高边缘区分度
+## 3. image sharpening — 图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
 </br>
 
