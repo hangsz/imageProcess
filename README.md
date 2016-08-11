@@ -1,6 +1,6 @@
 # imageProcess
 </br>
-## 1. connected-components labelling — 二值图连通域识别
+## 1. connected domain labelling — 二值图连通域识别
 ### **steps:**
    
     Record runs(start end row).    
