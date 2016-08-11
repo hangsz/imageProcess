@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (imageProcess.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  non-local means filtering.vcxproj -> D:\Users\HANG\Documents\Visual Studio\Projects\imageProcess\Release\non-local means filtering.exe
