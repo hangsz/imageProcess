@@ -14,7 +14,6 @@
 
 ## 3. image sharpening — 图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
-</br>
 
 ## 你可以获得什么？
     所用算法原理以及实现；
