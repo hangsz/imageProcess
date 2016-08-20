@@ -1,1 +1,2 @@
-# This algorithms are all realized, you can use the .exe to work on images.
+#Introduction
+###This .exe software packes the three algorithms aformentioned.
