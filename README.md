@@ -1,6 +1,7 @@
 # imageProcess（ 实习时完成的项目）
 </br>
-## 1. connected domain labelling — 二值图连通域识别
+## 1. Connected-component labelling 
+####二值图连通域识别
 ### **steps:**
    
     Record runs(start end row).    
@@ -9,10 +10,12 @@
     Given new labels to all runs.
     Write labels to each pixel of runs.
 
-## 2. non-local means filtering — 非局部空间滤波算法，去除图像噪声
+## 2. Non-local means filtering
+#### 非局部空间滤波算法，去除图像噪声
     Providing four versions according to different modifications based on Bayesian Theory.
 
-## 3. image sharpening — 图像增强、锐化，提高边缘区分度
+## 3. image sharpening 
+####图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
 
 ## 你可以获得什么？
