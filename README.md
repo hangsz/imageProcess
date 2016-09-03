@@ -1,4 +1,4 @@
-# imageProcess（ 在GE做SDLP-EID时完成的项目）
+# imageProcess（ 实习时完成的项目）
 </br>
 ## 1. connected domain labelling — 二值图连通域识别
 ### **steps:**
