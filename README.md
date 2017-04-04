@@ -1,7 +1,7 @@
-# imageProcess（ 实习时完成的项目）
+# imageProcess（ 实习时做的一点图像算法）
 </br>
 ## 1. Connected-component labelling 
-####二值图连通域识别
+#### 二值图连通域识别
 ### **steps:**
    
     Record runs(start end row).    
@@ -15,7 +15,7 @@
     Providing four versions according to different modifications based on Bayesian Theory.
 
 ## 3. Image sharpening 
-####图像增强、锐化，提高边缘区分度
+#### 图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
 
 ## 你可以获得什么？
