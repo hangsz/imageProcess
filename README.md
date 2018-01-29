@@ -1,7 +1,6 @@
-# imageProcess（ 实习时做的一点图像算法）
+# imageProcess
 
 ## 1. Connected-component labelling 
-#### 二值图连通域识别
 ### **steps:**
    
     Record runs(start end row).    
@@ -11,11 +10,9 @@
     Write labels to each pixel of runs.
 
 ## 2. Non-local means filtering
-#### 非局部空间滤波算法，去除图像噪声
     Providing four versions according to different modifications based on Bayesian Theory.
 
 ## 3. Image sharpening 
-#### 图像增强、锐化，提高边缘区分度
     The paplace method is using currently.
 
 ## 你可以获得什么？
