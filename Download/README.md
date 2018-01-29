@@ -1,2 +1,2 @@
-#Introduction
-###This .exe software packes the three algorithms aformentioned.
+
+### This .exe software packes the three algorithms aformentioned.
